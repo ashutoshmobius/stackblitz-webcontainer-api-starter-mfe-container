@@ -1,0 +1,9 @@
+{
+    "imports": {
+        "@svelte-mfe": "http://localhost:5001/spa.js",
+        "@react-mfe": "http://localhost:5002/spa.js",
+        "react": "https://unpkg.com/react@18.3.1/umd/react.production.min.js",
+        "react-dom": "https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js",
+        "svelte": "https://cdn.jsdelivr.net/npm/svelte@5.14.4/src/index-client.min.js"
+    }
+}
